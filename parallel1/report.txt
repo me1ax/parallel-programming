@@ -1,0 +1,3 @@
+Matrix Size (N): 500
+Task Volume (Elements): 250000
+Execution Time (ms): 3696.42

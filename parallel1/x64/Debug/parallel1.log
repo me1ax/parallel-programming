@@ -1,0 +1,4 @@
+﻿  parallel1.cpp
+C:\Users\Slavix PC\source\repos\parallel1\parallel1\parallel1.cpp(34,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Slavix PC\source\repos\parallel1\parallel1\parallel1.cpp(45,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  parallel1.vcxproj -> C:\Users\Slavix PC\source\repos\parallel1\x64\Debug\parallel1.exe
